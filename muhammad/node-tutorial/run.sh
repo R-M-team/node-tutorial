@@ -1,1 +1,1 @@
-nodemon src/globals.js
+nodemon src/app.js
